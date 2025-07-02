@@ -11,7 +11,7 @@ To explore, analyze, and optimize retail operations using advanced SQL technique
 
 ## 🛠️ Tools & Technologies Used
 
-- **SQL (MySQL/PostgreSQL)**
+- **SQL (MySQL)**
 - **Window Functions (RANK, NTILE, FIRST_VALUE, etc.)**
 - **CTEs, Triggers, Stored Procedures**
 - **Lag/Lead Analysis**
@@ -46,7 +46,6 @@ To explore, analyze, and optimize retail operations using advanced SQL technique
 - Applied real-world use cases to each analysis point
 - Created reusable patterns for trend and segmentation analysis
 - Built the logic to be adaptable for enterprise data warehouse use
-- 
 
 ## 💡 Business Recommendations
 
