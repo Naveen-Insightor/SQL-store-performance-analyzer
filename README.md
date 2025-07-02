@@ -1,6 +1,8 @@
 ## SQL-store-performance-analyzer
 
-End-to-end SQL project using a retail dataset to uncover powerful sales and customer insights. Built from DDL creation to advanced window functions, stored procedures, triggers, and KPIs. Includes YoY, MoM, WoW, QoQ growth analysis, ranking logic, and customer/product segmentation. Showcases advanced SQL skills## 🎯 Objective / Problem Statement
+End-to-end SQL project using a retail dataset to uncover powerful sales and customer insights. Built from DDL creation to advanced window functions, stored procedures, triggers, and KPIs. Includes YoY, MoM, WoW, QoQ growth analysis, ranking logic, and customer/product segmentation. Showcases advanced SQL skills
+
+## 🎯 Objective / Problem Statement
 
 To explore, analyze, and optimize retail operations using advanced SQL techniques — from customer trends to product profitability and time-based performance tracking.
 
